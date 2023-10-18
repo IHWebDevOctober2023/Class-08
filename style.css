@@ -1,0 +1,21 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+h2{
+    color: green;
+}
+
+.purple {
+    color: purple;
+}
+
+.big{
+    font-size: 30px;
+}
+
+li:first-child{
+    background-color: aqua;
+}
