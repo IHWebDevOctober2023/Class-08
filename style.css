@@ -10,6 +10,11 @@ h2{
 
 .purple {
     color: purple;
+    cursor: pointer;
+}
+
+.light-blue{
+    background-color: aqua;
 }
 
 .big{
